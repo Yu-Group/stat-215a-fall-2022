@@ -29,7 +29,7 @@ weeks:
       assignments:
         - name: Lab 0 due
           url:
-        - name: "Lab 1: Redwood data assigned"
+        - name: "Lab 1: PECARN data assigned"
           due: 09/16 at 11:59pm
 
   - weekNum: 3

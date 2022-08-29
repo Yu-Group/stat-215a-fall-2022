@@ -15,8 +15,8 @@ Email: binyu
 
 ## GSI
 
-![Omer Ronen]({{ "/assets/images/omer.png" | relative_url }}#staff-image)
+![Theo Saarinen]({{ "/assets/images/theo.png" | relative_url }}#staff-image)
 
-Omer Ronen
+Theo Saarinen
 
-Email: omer_ronen
+Email: theo_s
